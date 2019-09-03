@@ -56,7 +56,7 @@
 .. _getting_started:
 
 -----------------
-Calm TTT Workshop
+Calm Workshop
 -----------------
 
 Welcome to the Calm Workshop! This workbook accompanies an instructor-led session that introduces Nutanix Calm and many common management tasks. Each section has a lesson and an exercise to give you hands-on practice. The instructor explains the exercises and answers any additional questions that you may have.
@@ -85,7 +85,6 @@ Introductions
 - Familiarity with Nutanix
 - Experiance with Calm
 - Experiance with DevOps technologies
-- Experiance with Flow
 
 Initial Setup
 +++++++++++++
